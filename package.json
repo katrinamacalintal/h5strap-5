@@ -1,0 +1,28 @@
+{
+  "name": "h5strap",
+  "version": "5.0.0",
+  "description": "Another sleek, intuitive, and powerful front-end framework for faster and easier web development.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "grunt compile"
+  },
+  
+  "style": "./assets/css/default.css",
+  "less": "./assets/less/default.less",
+  
+  "keywords": [
+    "css",
+    "html5",
+    "strap"
+  ],
+  
+  "author": "iMark Designs",
+  
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-less": "~0.9.0",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+  
+}
+
