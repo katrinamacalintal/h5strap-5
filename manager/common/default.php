@@ -11,7 +11,7 @@
 					<button data-target="#sidr" id="sider" class="navbar-device hidden-lg" data-toggle="button"> <i class="fa fa-bars"></i> </button>			
 					<a class="navbar-brand" href="./">H5Strap 5.0</a>
 				</div>
-	      <ul class="nav navbar-nav navbar-right hidden-md hidden-sm">
+	      <ul class="nav navbar-nav navbar-right hidden-md hidden-sm hidden-xs">
 	        <li class="active"><a href="./">What's New?</a></li>
 	        <li><a href="http://getbootstrap.com/">Bootstrap 3.1.1</a></li>
 	        <li><a href="http://fontawesome.io">FontAwesome 4.0.3</a></li>
