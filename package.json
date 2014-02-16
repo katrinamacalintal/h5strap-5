@@ -9,7 +9,19 @@
   
   "style": "./assets/css/default.css",
   "less": "./assets/less/default.less",
-  
+
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/imarkdesigns/h5strap-5.git"
+  },
+  "bugs": {
+    "url": "https://github.com/imarkdesigns/h5strap-5/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/imarkdesigns/h5strap-5/blob/master/LICENSE"
+  },
+ 
   "keywords": [
     "css",
     "html5",
@@ -25,4 +37,3 @@
   }
   
 }
-
