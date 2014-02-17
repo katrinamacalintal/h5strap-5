@@ -23,8 +23,7 @@ Plugins
 Enhancements
 
 1. Sidr Plugin integration on Media-Responsive
-2. Optimized Assets folder and its contents
-3. Grunt LESS CSS Compiler
+2. Grunt LESS CSS Compiler
 
 What's Inside
 
