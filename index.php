@@ -18,7 +18,7 @@
 		<div class="col-lg-7 col-md-7 col-xs-12 info-text">
 			<h1>Simple friendly HTML5 Framework <small>An open-source framework for everyone</small></h1>
 			<p>H5Strap can provide a clean, optimized website output that follows the same path as the goals of your business.</p>
-			<p>Website output is important, but the most important part is how your website functions. H5BS integrates all in one to get a powerful framework in your work.</p>
+			<p>Website output is important, but the most important part is how your website functions. HTML5Strap integrates all in one to get a powerful framework in your work.</p>
 			<p>Your development will have the ability to reach more users because it is accessible on any device. It's not about Desktops anymore, mobile is expanding and responsive helps you stay on top of it.</p>
       <h4>What's Inside</h4>
       <p>Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations.</p>
