@@ -31,7 +31,7 @@
 	
 	<section class="clearfix text-center" style="margin-bottom:25px;">
 		<div class="btn-group">
-		  <a href="#" class="btn btn-primary"> Download Now </a>
+		  <a href="https://github.com/imarkdesigns/h5strap-5" class="btn btn-primary"> Download Now </a>
 		  <button type="button" class="btn btn-primary"> <i class="fa fa-github-square"></i> </button>
 		</div>
 	</section>
