@@ -13,7 +13,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="assets/icons/favicon.png" type="image/png" rel="shortcut icon">
 <link href="assets/~bootstrap/css/bootstrap.min.css?v=3.1.1" rel="stylesheet">
-<link href="assets/~fontawesome/fontawesome.min.css?v=4.0.3" rel="stylesheet">	
+<link href="assets/~fontawesome/fontawesome.min.css?v=4.1.0" rel="stylesheet">	
 <link href="assets/css/default.css" rel="stylesheet">
 <?php
 	/*
@@ -29,7 +29,7 @@
 ?>
 <script src="assets/js/jquery-1.11.0.min.js"></script>
 <script src="assets/js/jquery-migrate-1.2.1.min.js"></script>
-<script src="assets/js/modernizr.js?v=2.6.1"></script>
+<script src="assets/js/modernizr.js?v=2.8.1"></script>
 <script src="plugins/pace/pace.min.js"></script>
 <!--[if lt IE 9]>
   <script src="assets/js/respond.min.js"></script>
