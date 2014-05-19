@@ -27,7 +27,7 @@
 
 	*/
 ?>
-<script src="assets/js/jquery-1.11.0.min.js"></script>
+<script src="assets/js/jquery-1.11.1.min.js"></script>
 <script src="assets/js/jquery-migrate-1.2.1.min.js"></script>
 <script src="assets/js/modernizr.js?v=2.8.1"></script>
 <script src="plugins/pace/pace.min.js"></script>
